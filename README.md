@@ -1,2 +1,2 @@
 # Scientific-Python-Tutorials
-A series of tutorial notebooks outline some basics of using Python for scientific computing.
+A series of tutorial notebooks outline some basics of using Python for scientific computing. Numerical solutions of elementary cellular automata (https://en.wikipedia.org/wiki/Elementary_cellular_automaton) is the motivating task. We start with intuitive implementation CA simulation using Python dictionaries and native for-loops. Some details of writing good "Pythonic" code are described. We then show how to speed up the simulation code first using numpy, then numba. 
