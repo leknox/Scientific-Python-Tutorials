@@ -5,4 +5,5 @@ A short series of tutorial notebooks outlining some basics of Python for scienti
 
 I recommend using [Anaconda](https://www.anaconda.com/distribution/) to install Python and manage packages. An [environment.yml](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) file is included to install the necessary packages for this tutorial, including jupyter notebooks. 
 
-### I'm currently in the process of updating these tutorials and adding a lot more comments so they can be used as a stand-alone document for people to read through. 
+Click Launch to run a tutorial notebook in your browser:  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leknox/Scientific-Python-Tutorials.git/master)
